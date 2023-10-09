@@ -10,6 +10,8 @@
 - 😄 Pronouns: Tebi
 - ⚡ Fun fact:
 
+https://img.shields.io/badge/:badgeContent
+
 
 <!--START_SECTION:waka-->
 
