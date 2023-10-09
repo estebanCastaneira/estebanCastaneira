@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](./github-header-image.png)
+![Header](./github-header-image.pn)
 
 # I'm a FullStack Developer
 
