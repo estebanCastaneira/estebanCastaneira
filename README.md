@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working on mxa_frontend & mxa_backend
 - 🌱 I’m currently learning TypeScript
-- 👯 I’m looking to collaborate on projects
+- 🚀 I'm looking to start a career in IT.
 - 📫 How to reach me: estebanc_b@hotmail.com  
 - 😄 Pronouns: Tebi
-- ⚡ Fun fact: i don't know how many pairs are three boots
+- ⚡ Fun fact:
 
 
 <!--START_SECTION:waka-->
