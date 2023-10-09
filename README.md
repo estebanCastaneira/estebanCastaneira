@@ -8,9 +8,8 @@
 - 🚀 I'm looking to start a career in IT.
 - 📫 How to reach me: estebanc_b@hotmail.com  
 - 😄 Pronouns: Tebi
-- ⚡ Fun fact:
+- ⚡ Fun fact: i'm uruguayan and i don't drink mate 🧉
 
-https://img.shields.io/badge/:badgeContent
 
 
 <!--START_SECTION:waka-->
