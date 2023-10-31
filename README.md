@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning TypeScript
 - 🚀 I'm looking to start a career in IT.
 - 📫 How to reach me: estebanc_b@hotmail.com  
-- 😄 Pronouns: Tebi
 - ⚡ Fun fact: i'm uruguayan and i don't drink mate 🧉
 
 
