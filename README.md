@@ -3,9 +3,9 @@
 
 # I'm a FullStack Developer
 
-- 🔭 I’m currently working on mxa_frontend & mxa_backend
-- 🌱 I’m currently learning TypeScript
-- 🚀 I'm looking to start a career in IT.
+- 👷🏽‍♂️ I’m currently working on TCS as Microsoft Support Engineer.
+- 🌱 I’m currently learning Phyton
+- 🚀 I'm looking to start a career as a Developer.
 - 📫 How to reach me: estebanc_b@hotmail.com  
 - ⚡ Fun fact: i'm uruguayan and i don't drink mate 🧉
 
